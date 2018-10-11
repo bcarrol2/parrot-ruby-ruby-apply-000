@@ -5,4 +5,4 @@ def parrot(element)
   return element
 end
 
-parrot()
+parrot(" ")

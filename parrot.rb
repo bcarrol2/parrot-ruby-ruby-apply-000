@@ -4,4 +4,3 @@ def parrot(element)
   puts element
 end
 
-parrot()
